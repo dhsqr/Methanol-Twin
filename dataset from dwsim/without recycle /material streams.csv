@@ -1,0 +1,377 @@
+﻿Property / Streams,Units,comp_out,cooled,crude-methanol,hot,mix_feed,reactor-liq,reactor-out,recycle gas,Syngas
+Type,,Inner,Inner,Product,Inner,Inner,Product,Inner,Product,Feed
+Temperature,K,430.072,308,308,525,300,525,525,308,300
+Pressure,bar,80,80,80,80,30,80,80,80,30
+Mass Flow,kg/s,0.0320159,0.0320159,0.000284043,0.0320159,0.0320159,0,0.0320159,0.0317318,0.0320159
+Molar Flow,mol/s,3,2.94866,0.00891577,3,3,0,2.94866,2.93974,3
+Volumetric Flow,m3/s,0.00137411,0.000957418,3.6518E-07,0.00167654,0.00250631,0,0.00164689,0.000957052,0.00250631
+Density (Mixture),kg/m3,23.2993,33.4398,777.815,19.0963,12.7741,19.4403,19.4403,33.1558,12.7741
+Molecular Weight (Mixture),kg/kmol,10.672,10.8578,31.8585,10.672,10.672,10.8578,10.8578,10.7941,10.672
+Specific Enthalpy (Mixture),kJ/kg,357.841,2.49699,-1216.84,624.169,-0.403316,616.7,616.7,13.4117,-0.403316
+Specific Entropy (Mixture),kJ/[kg.K],-1.20494,-2.10318,-3.53248,-0.64541,-1.42131,-0.579878,-0.579878,-2.09039,-1.42131
+Molar Enthalpy (Mixture),kJ/kmol,3818.87,27.1117,-38766.7,6661.11,-4.30417,6695.98,6695.98,144.767,-4.30417
+Molar Entropy (Mixture),kJ/[kmol.K],-12.859,-22.8359,-112.54,-6.88778,-15.1682,-6.29619,-6.29619,-22.5638,-15.1682
+Thermal Conductivity (Mixture),W/[m.K],0.171849,0.133789,0.196777,0.199528,0.129059,0.198266,0.198266,0.133598,0.129059
+Density (Vapor),kg/m3,23.2993,33.1558,0,19.0963,12.7741,19.4403,19.4403,33.1558,12.7741
+Molecular Weight (Vapor),kg/kmol,10.672,10.7941,0,10.672,10.672,10.8578,10.8578,10.7941,10.672
+Specific Enthalpy (Vapor),kJ/kg,357.841,13.4117,0,624.169,-0.403316,616.7,616.7,13.4117,-0.403316
+Specific Entropy (Vapor),kJ/[kg.K],-1.20494,-2.09039,0,-0.64541,-1.42131,-0.579878,-0.579878,-2.09039,-1.42131
+Molar Enthalpy (Vapor),kJ/kmol,3818.87,144.767,0,6661.11,-4.30417,6695.98,6695.98,144.767,-4.30417
+Molar Entropy (Vapor),kJ/[kmol.K],-12.859,-22.5638,0,-6.88778,-15.1682,-6.29619,-6.29619,-22.5638,-15.1682
+Thermal Conductivity (Vapor),W/[m.K],0.171849,0.133598,0,0.199528,0.129059,0.198266,0.198266,0.133598,0.129059
+Kinematic Viscosity (Vapor),m2/s,6.76279E-07,3.82169E-07,0,9.40543E-07,9.49224E-07,9.24118E-07,9.24118E-07,3.82169E-07,9.49224E-07
+Dynamic Viscosity (Vapor),Pa.s,1.57569E-05,1.26711E-05,0,1.79609E-05,1.21255E-05,1.79651E-05,1.79651E-05,1.26711E-05,1.21255E-05
+Heat Capacity (Vapor),kJ/[kg.K],2.80053,2.79555,0,2.80653,2.74979,2.78721,2.78721,2.79555,2.74979
+Heat Capacity Ratio (Vapor),,1.42253,1.47046,,1.40631,1.43535,1.40243,1.40243,1.47046,1.43535
+Mass Flow (Vapor),kg/s,0.0320159,0.0317318,0,0.0320159,0.0320159,0,0.0320159,0.0317318,0.0320159
+Molar Flow (Vapor),mol/s,3,2.93974,0,3,3,0,2.94866,2.93974,3
+Volumetric Flow (Vapor),m3/s,0.00137411,0.000957052,0,0.00167654,0.00250631,0,0.00164689,0.000957052,0.00250631
+Compressibility Factor (Vapor),,1.0248,1.01708,0,1.02427,1.00486,1.02367,1.02367,1.01708,1.00486
+Molar Fraction (Vapor),,1,0.996976,0,1,1,1,1,1,1
+Mass Fraction (Vapor),,1,0.991128,0,1,1,1,1,1,1
+Volumetric Fraction (Vapor),,1,0.999619,0,1,1,,1,1,1
+Density (Overall Liquid),kg/m3,0,777.815,777.815,0,0,0,0,0,0
+Molecular Weight (Overall Liquid),kg/kmol,,31.8585,31.8585,,,,,,
+Specific Enthalpy (Overall Liquid),kJ/kg,0,-1216.84,-1216.84,0,0,0,0,0,0
+Specific Entropy (Overall Liquid),kJ/[kg.K],0,-3.53248,-3.53248,0,0,0,0,0,0
+Molar Enthalpy (Overall Liquid),kJ/kmol,,-38766.7,-38766.7,,,,,,
+Molar Entropy (Overall Liquid),kJ/[kmol.K],,-112.54,-112.54,,,,,,
+Thermal Conductivity (Overall Liquid),W/[m.K],0,0.196777,0.196777,0,0,0,0,0,0
+Kinematic Viscosity (Overall Liquid),m2/s,0,6.3036E-07,6.3036E-07,0,0,0,0,0,0
+Dynamic Viscosity (Overall Liquid),Pa.s,0,0.000490303,0.000490303,0,0,0,0,0,0
+Heat Capacity (Overall Liquid),kJ/[kg.K],0,2.96979,2.96979,0,0,0,0,0,0
+Heat Capacity Ratio (Overall Liquid),,,1.30809,1.30809,,,,,,
+Mass Flow (Overall Liquid),kg/s,0,0.000284043,0.000284043,0,0,0,0,0,0
+Molar Flow (Overall Liquid),mol/s,0,0.00891577,0.00891577,0,0,0,0,0,0
+Volumetric Flow (Overall Liquid),m3/s,0,3.6518E-07,3.6518E-07,0,0,0,0,0,0
+Compressibility Factor (Overall Liquid),,0,0.149337,0.149337,0,0,0,0,0,0
+Molar Fraction (Overall Liquid),,0,0.00302367,1,0,0,0,0,0,0
+Mass Fraction (Overall Liquid),,0,0.00887194,1,0,0,0,0,0,0
+Volumetric Fraction (Overall Liquid),,0,0.000381422,1,0,0,,0,0,0
+Density (Liquid 1),kg/m3,0,777.815,777.815,0,0,0,0,0,0
+Molar Weight (Liquid 1),kg/kmol,0,31.8585,31.8585,0,0,0,0,0,0
+Specific Enthalpy (Liquid 1),kJ/kg,0,-1216.84,-1216.84,0,0,0,0,0,0
+Specific Entropy (Liquid 1),kJ/[kg.K],0,-3.53248,-3.53248,0,0,0,0,0,0
+Molar Enthalpy (Liquid 1),kJ/kmol,0,-38766.7,-38766.7,0,0,0,0,0,0
+Molar Entropy (Liquid 1),kJ/[kmol.K],0,-112.54,-112.54,0,0,0,0,0,0
+Thermal Conductivity (Liquid 1),W/[m.K],0,0.196777,0.196777,0,0,0,0,0,0
+Kinematic Viscosity (Liquid 1),m2/s,0,6.3036E-07,6.3036E-07,0,0,0,0,0,0
+Dynamic Viscosity (Liquid 1),Pa.s,0,0.000490303,0.000490303,0,0,0,0,0,0
+Heat Capacity (Liquid 1),kJ/[kg.K],0,2.96979,2.96979,0,0,0,0,0,0
+Heat Capacity Ratio (Liquid 1),,,1.30809,1.30809,,,,,,
+Mass Flow (Liquid 1),kg/s,0,0.000284043,0.000284043,0,0,0,0,0,0
+Molar Flow (Liquid 1),mol/s,0,0.00891577,0.00891577,0,0,0,0,0,0
+Volumetric Flow (Liquid 1),m3/s,0,3.6518E-07,3.6518E-07,0,0,0,0,0,0
+Compressibility Factor (Liquid 1),,0,0.149337,0.149337,0,0,0,0,0,0
+Molar Fraction (Liquid 1),,0,0.00302367,1,0,0,0,0,0,0
+Mass Fraction (Liquid 1),,0,0.00887194,1,0,0,0,0,0,0
+Volumetric Fraction (Liquid 1),,0,0.000381422,1,0,0,,0,0,0
+Density (Liquid 2),kg/m3,0,0,0,0,0,0,0,0,0
+Molar Weight (Liquid 2),kg/kmol,0,0,0,0,0,0,0,0,0
+Specific Enthalpy (Liquid 2),kJ/kg,0,0,0,0,0,0,0,0,0
+Specific Entropy (Liquid 2),kJ/[kg.K],0,0,0,0,0,0,0,0,0
+Molar Enthalpy (Liquid 2),kJ/kmol,0,0,0,0,0,0,0,0,0
+Molar Entropy (Liquid 2),kJ/[kmol.K],0,0,0,0,0,0,0,0,0
+Thermal Conductivity (Liquid 2),W/[m.K],0,0,0,0,0,0,0,0,0
+Kinematic Viscosity (Liquid 2),m2/s,0,0,0,0,0,0,0,0,0
+Dynamic Viscosity (Liquid 2),Pa.s,0,0,0,0,0,0,0,0,0
+Heat Capacity (Liquid 2),kJ/[kg.K],0,0,0,0,0,0,0,0,0
+Heat Capacity Ratio (Liquid 2),,,,,,,,,,
+Mass Flow (Liquid 2),kg/s,0,0,0,0,0,0,0,0,0
+Molar Flow (Liquid 2),mol/s,0,0,0,0,0,0,0,0,0
+Volumetric Flow (Liquid 2),m3/s,0,0,0,0,0,0,0,0,0
+Compressibility Factor (Liquid 2),,0,0,0,0,0,0,0,0,0
+Molar Fraction (Liquid 2),,0,0,0,0,0,0,0,0,0
+Mass Fraction (Liquid 2),,0,0,0,0,0,0,0,0,0
+Volumetric Fraction (Liquid 2),,0,0,0,0,0,,0,0,0
+Density (Aqueous),kg/m3,0,0,0,0,0,0,0,0,0
+Molecular Weight (Aqueous),kg/kmol,0,0,0,0,0,0,0,0,0
+Specific Enthalpy (Aqueous),kJ/kg,0,0,0,0,0,0,0,0,0
+Specific Entropy (Aqueous),kJ/[kg.K],0,0,0,0,0,0,0,0,0
+Molar Enthalpy (Aqueous),kJ/kmol,0,0,0,0,0,0,0,0,0
+Molar Entropy (Aqueous),kJ/[kmol.K],0,0,0,0,0,0,0,0,0
+Thermal Conductivity (Aqueous),W/[m.K],0,0,0,0,0,0,0,0,0
+Kinematic Viscosity (Aqueous),m2/s,0,0,0,0,0,0,0,0,0
+Dynamic Viscosity (Aqueous),Pa.s,0,0,0,0,0,0,0,0,0
+Heat Capacity (Aqueous),kJ/[kg.K],0,0,0,0,0,0,0,0,0
+Heat Capacity Ratio (Aqueous),,,,,,,,,,
+Mass Flow (Aqueous),kg/s,0,0,0,0,0,0,0,0,0
+Molar Flow (Aqueous),mol/s,0,0,0,0,0,0,0,0,0
+Volumetric Flow (Aqueous),m3/s,0,0,0,0,0,0,0,0,0
+Compressibility Factor (Aqueous),,0,0,0,0,0,0,0,0,0
+Molar Fraction (Aqueous),,0,0,0,0,0,0,0,0,0
+Aqueous Mass Fraction,,0,0,0,0,0,0,0,0,0
+Aqueous Volumetric Fraction,,0,0,0,0,0,,0,0,0
+Density (Solid),kg/m3,0,0,0,0,0,0,0,0,0
+Molecular Weight (Solid),kg/kmol,0,0,0,0,0,0,0,0,0
+Specific Enthalpy (Solid),kJ/kg,0,0,0,0,0,0,0,0,0
+Specific Entropy (Solid),kJ/[kg.K],0,0,0,0,0,0,0,0,0
+Molar Enthalpy (Solid),kJ/kmol,0,0,0,0,0,0,0,0,0
+Molar Entropy (Solid),kJ/[kmol.K],0,0,0,0,0,0,0,0,0
+Thermal Conductivity (Solid),W/[m.K],0,0,0,0,0,0,0,0,0
+Kinematic Viscosity (Solid),m2/s,0,0,0,0,0,0,0,0,0
+Dynamic Viscosity (Solid),Pa.s,0,0,0,0,0,0,0,0,0
+Solid Heat Capacity (Cp),kJ/[kg.K],0,0,0,0,0,0,0,0,0
+Solid Heat Capacity Ratio (Cp/Cv),,,,,,,,,,
+Mass Flow (Solid),kg/s,0,0,0,0,0,0,0,0,0
+Molar Flow (Solid),mol/s,0,0,0,0,0,0,0,0,0
+Volumetric Flow (Solid),m3/s,0,0,0,0,0,0,0,0,0
+Compressibility Factor (Solid),,0,0,0,0,0,0,0,0,0
+Molar Fraction (Solid),,0,0,0,0,0,0,0,0,0
+Mass Fraction (Solid),,0,0,0,0,0,0,0,0,0
+Volumetric Fraction (Solid),,0,0,0,0,0,,0,0,0
+Molar Fraction (Mixture) / Methanol,,0,0.00870573,0.990073,0,0,0.00870573,0.00870573,0.00572936,0
+Molar Fraction (Mixture) / Carbon monoxide,,0.333,0.330092,0.00441191,0.333,0.333,0.330092,0.330092,0.33108,0.333
+Molar Fraction (Mixture) / Hydrogen,,0.667,0.661202,0.00551522,0.667,0.667,0.661202,0.661202,0.663191,0.667
+Mass Fraction (Mixture) / Methanol,,0,0.0256911,0.995772,0,0,0.0256911,0.0256911,0.0170074,0
+Mass Fraction (Mixture) / Carbon monoxide,,0.874007,0.851549,0.00387897,0.874007,0.874007,0.851549,0.851549,0.859136,0.874007
+Mass Fraction (Mixture) / Hydrogen,,0.125993,0.12276,0.000348982,0.125993,0.125993,0.12276,0.12276,0.123856,0.125993
+Molar Flow (Mixture) / Methanol,mol/s,0,0.0256702,0.00882726,0,0,0,0.0256702,0.0168429,0
+Molar Flow (Mixture) / Carbon monoxide,mol/s,0.999,0.97333,3.93355E-05,0.999,0.999,0,0.97333,0.97329,0.999
+Molar Flow (Mixture) / Hydrogen,mol/s,2.001,1.94966,4.91724E-05,2.001,2.001,0,1.94966,1.94961,2.001
+Mass Flow (Mixture) / Methanol,kg/s,0,0.000822522,0.000282842,0,0,0,0.000822522,0.000539676,0
+Mass Flow (Mixture) / Carbon monoxide,kg/s,0.0279821,0.0272631,1.10179E-06,0.0279821,0.0279821,0,0.0272631,0.027262,0.0279821
+Mass Flow (Mixture) / Hydrogen,kg/s,0.00403378,0.00393028,9.91256E-08,0.00403378,0.00403378,0,0.00393028,0.00393018,0.00403378
+Molar Fraction (Vapor) / Methanol,,0,0.00572936,0,0,0,0.00870573,0.00870573,0.00572936,0
+Molar Fraction (Vapor) / Carbon monoxide,,0.333,0.33108,0,0.333,0.333,0.330092,0.330092,0.33108,0.333
+Molar Fraction (Vapor) / Hydrogen,,0.667,0.663191,0,0.667,0.667,0.661202,0.661202,0.663191,0.667
+Molar Fraction (Overall Liquid) / Methanol,,,0.990073,0.990073,,,,,,
+Molar Fraction (Overall Liquid) / Carbon monoxide,,,0.00441191,0.00441191,,,,,,
+Molar Fraction (Overall Liquid) / Hydrogen,,,0.00551522,0.00551522,,,,,,
+Molar Fraction (Liquid 1) / Methanol,,0,0.990073,0.990073,0,0,0.99999,0.99999,0,0
+Molar Fraction (Liquid 1) / Carbon monoxide,,1,0.00441191,0.00441191,1,1,1.00864E-05,1.00864E-05,0,1
+Molar Fraction (Liquid 1) / Hydrogen,,5.32828E-23,0.00551522,0.00551522,2.3964E-33,4.75497E-12,2.41719E-38,2.41719E-38,0,4.75497E-12
+Molar Fraction (Liquid 2) / Methanol,,0,0,0,0,0,0,0,0,0
+Molar Fraction (Liquid 2) / Carbon monoxide,,0,0,0,0,0,0,0,0,0
+Molar Fraction (Liquid 2) / Hydrogen,,0,0,0,0,0,0,0,0,0
+Molar Fraction (Aqueous) / Methanol,,0,0,0,0,0,0,0,0,0
+Molar Fraction (Aqueous) / Carbon monoxide,,0,0,0,0,0,0,0,0,0
+Molar Fraction (Aqueous) / Hydrogen,,0,0,0,0,0,0,0,0,0
+Mass Fraction (Vapor) / Methanol,,0,0.0170074,0,0,0,0.0256911,0.0256911,0.0170074,0
+Mass Fraction (Vapor) / Carbon monoxide,,0.874007,0.859136,0,0.874007,0.874007,0.851549,0.851549,0.859136,0.874007
+Mass Fraction (Vapor) / Hydrogen,,0.125993,0.123856,0,0.125993,0.125993,0.12276,0.12276,0.123856,0.125993
+Mass Fraction (Overall Liquid) / Methanol,,,0.995772,0.995772,,,,,,
+Mass Fraction (Overall Liquid) / Carbon monoxide,,,0.00387897,0.00387897,,,,,,
+Mass Fraction (Overall Liquid) / Hydrogen,,,0.000348982,0.000348982,,,,,,
+Mass Fraction (Liquid 1) / Methanol,,0,0.995772,0.995772,0,0,0.999991,0.999991,0,0
+Mass Fraction (Liquid 1) / Carbon monoxide,,1,0.00387897,0.00387897,1,1,8.81723E-06,8.81723E-06,0,1
+Mass Fraction (Liquid 1) / Hydrogen,,3.83475E-24,0.000348982,0.000348982,1.72469E-34,3.42214E-13,1.52075E-39,1.52075E-39,0,3.42214E-13
+Mass Fraction (Liquid 2) / Methanol,,0,0,0,0,0,0,0,0,0
+Mass Fraction (Liquid 2) / Carbon monoxide,,0,0,0,0,0,0,0,0,0
+Mass Fraction (Liquid 2) / Hydrogen,,0,0,0,0,0,0,0,0,0
+Mass Fraction (Aqueous) / Methanol,,0,0,0,0,0,0,0,0,0
+Mass Fraction (Aqueous) / Carbon monoxide,,0,0,0,0,0,0,0,0,0
+Mass Fraction (Aqueous) / Hydrogen,,0,0,0,0,0,0,0,0,0
+Molar Flow (Vapor) / Methanol,mol/s,0,0.0168429,0,0,0,0,0.0256702,0.0168429,0
+Molar Flow (Vapor) / Carbon monoxide,mol/s,0.999,0.97329,0,0.999,0.999,0,0.97333,0.97329,0.999
+Molar Flow (Vapor) / Hydrogen,mol/s,2.001,1.94961,0,2.001,2.001,0,1.94966,1.94961,2.001
+Molar Flow (Overall Liquid) / Methanol,mol/s,,0.00882726,0.00882726,,,,,,
+Molar Flow (Overall Liquid) / Carbon monoxide,mol/s,,3.93355E-05,3.93355E-05,,,,,,
+Molar Flow (Overall Liquid) / Hydrogen,mol/s,,4.91724E-05,4.91724E-05,,,,,,
+Molar Flow (Liquid 1) / Methanol,mol/s,0,0.00882726,0.00882726,0,0,0,0,0,0
+Molar Flow (Liquid 1) / Carbon monoxide,mol/s,0,3.93355E-05,3.93355E-05,0,0,0,0,0,0
+Molar Flow (Liquid 1) / Hydrogen,mol/s,0,4.91724E-05,4.91724E-05,0,0,0,0,0,0
+Molar Flow (Liquid 2) / Methanol,mol/s,0,0,0,0,0,0,0,0,0
+Molar Flow (Liquid 2) / Carbon monoxide,mol/s,0,0,0,0,0,0,0,0,0
+Molar Flow (Liquid 2) / Hydrogen,mol/s,0,0,0,0,0,0,0,0,0
+Molar Flow (Aqueous) / Methanol,mol/s,,,,,,,,,
+Molar Flow (Aqueous) / Carbon monoxide,mol/s,,,,,,,,,
+Molar Flow (Aqueous) / Hydrogen,mol/s,,,,,,,,,
+Mass Flow (Vapor) / Methanol,kg/s,0,0.000539676,0,0,0,0,0.000822522,0.000539676,0
+Mass Flow (Vapor) / Carbon monoxide,kg/s,0.0279821,0.027262,0,0.0279821,0.0279821,0,0.0272631,0.027262,0.0279821
+Mass Flow (Vapor) / Hydrogen,kg/s,0.00403378,0.00393018,0,0.00403378,0.00403378,0,0.00393028,0.00393018,0.00403378
+Mass Flow (Overall Liquid) / Methanol,kg/s,,0.000282842,0.000282842,,,,,,
+Mass Flow (Overall Liquid) / Carbon monoxide,kg/s,,1.10179E-06,1.10179E-06,,,,,,
+Mass Flow (Overall Liquid) / Hydrogen,kg/s,,9.91256E-08,9.91256E-08,,,,,,
+Mass Flow (Liquid 1) / Methanol,kg/s,0,0.000282842,0.000282842,0,0,0,0,0,0
+Mass Flow (Liquid 1) / Carbon monoxide,kg/s,0,1.10179E-06,1.10179E-06,0,0,0,0,0,0
+Mass Flow (Liquid 1) / Hydrogen,kg/s,0,9.91256E-08,9.91256E-08,0,0,0,0,0,0
+Mass Flow (Liquid 2) / Methanol,kg/s,0,0,0,0,0,0,0,0,0
+Mass Flow (Liquid 2) / Carbon monoxide,kg/s,0,0,0,0,0,0,0,0,0
+Mass Flow (Liquid 2) / Hydrogen,kg/s,0,0,0,0,0,0,0,0,0
+Mass Flow (Aqueous) / Methanol,kg/s,0,0,0,0,0,0,0,0,0
+Mass Flow (Aqueous) / Carbon monoxide,kg/s,0,0,0,0,0,0,0,0,0
+Mass Flow (Aqueous) / Hydrogen,kg/s,0,0,0,0,0,0,0,0,0
+Mole Fraction (Solid) / Methanol,,0,0,0,0,0,0,0,0,0
+Mole Fraction (Solid) / Carbon monoxide,,0,0,0,0,0,0,0,0,0
+Mole Fraction (Solid) / Hydrogen,,0,0,0,0,0,0,0,0,0
+Mass Fraction (Solid) / Methanol,,0,0,0,0,0,0,0,0,0
+Mass Fraction (Solid) / Carbon monoxide,,0,0,0,0,0,0,0,0,0
+Mass Fraction (Solid) / Hydrogen,,0,0,0,0,0,0,0,0,0
+Mole Flow (Solid) / Methanol,mol/s,0,0,0,0,0,0,0,0,0
+Mole Flow (Solid) / Carbon monoxide,mol/s,0,0,0,0,0,0,0,0,0
+Mole Flow (Solid) / Hydrogen,mol/s,0,0,0,0,0,0,0,0,0
+Mass Flow (Solid) / Methanol,kg/s,0,0,0,0,0,0,0,0,0
+Mass Flow (Solid) / Carbon monoxide,kg/s,0,0,0,0,0,0,0,0,0
+Mass Flow (Solid) / Hydrogen,kg/s,0,0,0,0,0,0,0,0,0
+Bubble Pressure at Stream Temperature,bar,0,0,0,0,0,0,0,0,0
+Dew Pressure at Stream Temperature,bar,0,0,0,0,0,0,0,0,0
+Bubble Temperature at Stream Pressure,K,0,0,0,0,0,0,0,0,0
+Dew Temperature at Stream Pressure,K,0,0,0,0,0,0,0,0,0
+Phases,,V,V+L,L,V,V,V,V,V,V
+pH (Liquid 1),,0,0,0,0,0,0,0,0,0
+Osmotic Coefficient (Liquid 1),,0,0,0,0,0,0,0,0,0
+Mean Ionic Activity Coefficient (Liquid 1),,0,0,0,0,0,0,0,0,0
+Freezing Point (Liquid 1),K,0,0,0,0,0,0,0,0,0
+Freezing Point Depression (Liquid 1),K.,0,0,0,0,0,0,0,0,0
+Isothermal Compressibility (Vapor),1/Pa,1.21667E-07,1.21935E-07,0,1.21881E-07,3.31291E-07,1.21938E-07,1.21938E-07,1.21935E-07,3.31291E-07
+Bulk Modulus (Vapor),bar,82.1915,82.0112,0,82.047,30.185,82.0087,82.0087,82.0112,30.185
+Speed of Sound (Vapor),m/s,708.389,603.092,0,777.313,582.384,769.164,769.164,603.092,582.384
+Joule-Thomson Coefficient (Vapor),K/Pa,3.47242E-08,4.41629E-07,0,-1.21963E-07,5.96425E-07,-7.67951E-08,-7.67951E-08,4.41629E-07,5.96425E-07
+Internal Energy (Vapor),kJ/kg,14.4841,-227.874,0,205.241,-235.254,205.182,205.182,-227.874,-235.254
+Gibbs Free Energy (Vapor),kJ/kg,876.051,657.251,0,963.01,425.99,921.136,921.136,657.251,425.99
+Helmholtz Free Energy (Vapor),kJ/kg,532.694,415.966,0,544.081,191.139,509.619,509.619,415.966,191.139
+Isothermal Compressibility (Overall Liquid),1/Pa,0,0,0,0,0,0,0,0,0
+Bulk Modulus (Overall Liquid),bar,0,0,0,0,0,0,0,0,0
+Speed of Sound (Overall Liquid),m/s,0,0,0,0,0,0,0,0,0
+Joule-Thomson Coefficient (Overall Liquid),K/Pa,0,0,0,0,0,0,0,0,0
+Internal Energy (Overall Liquid),kJ/kg,0,-1228.84,-1228.84,0,0,0,0,0,0
+Gibbs Free Energy (Overall Liquid),kJ/kg,0,-128.835,-128.835,0,0,0,0,0,0
+Helmholtz Free Energy (Overall Liquid),kJ/kg,0,-140.839,-140.839,0,0,0,0,0,0
+Bulk Modulus (Liquid 1),bar,0,17934.1,17934.1,0,0,0,0,0,0
+Speed of Sound (Liquid 1),m/s,0,1736.68,1736.68,0,0,0,0,0,0
+Joule-Thomson Coefficient (Liquid 1),K/Pa,0,-3.31743E-07,-3.31743E-07,0,0,0,0,0,0
+Internal Energy (Liquid 1),kJ/kg,0,-1228.84,-1228.84,0,0,0,0,0,0
+Gibbs Free Energy (Liquid 1),kJ/kg,0,-128.835,-128.835,0,0,0,0,0,0
+Helmholtz Free Energy (Liquid 1),kJ/kg,0,-140.839,-140.839,0,0,0,0,0,0
+Isothermal Compressibility (Liquid 1),1/Pa,0,5.57597E-10,5.57597E-10,0,0,0,0,0,0
+Bulk Modulus (Liquid 2),bar,0,0,0,0,0,0,0,0,0
+Speed of Sound (Liquid 2),m/s,0,0,0,0,0,0,0,0,0
+Joule-Thomson Coefficient (Liquid 2),K/Pa,0,0,0,0,0,0,0,0,0
+Internal Energy (Liquid 2),kJ/kg,0,0,0,0,0,0,0,0,0
+Gibbs Free Energy (Liquid 2),kJ/kg,0,0,0,0,0,0,0,0,0
+Helmholtz Free Energy (Liquid 2),kJ/kg,0,0,0,0,0,0,0,0,0
+Isothermal Compressibility (Liquid 2),1/Pa,0,0,0,0,0,0,0,0,0
+Bulk Modulus (Liquid 3),bar,0,0,0,0,0,0,0,0,0
+Speed of Sound (Liquid 3),m/s,0,0,0,0,0,0,0,0,0
+Joule-Thomson Coefficient (Liquid 3),K/Pa,0,0,0,0,0,0,0,0,0
+Internal Energy (Liquid 3),kJ/kg,0,0,0,0,0,0,0,0,0
+Gibbs Free Energy (Liquid 3),kJ/kg,0,0,0,0,0,0,0,0,0
+Helmholtz Free Energy (Liquid 3),kJ/kg,0,0,0,0,0,0,0,0,0
+Isothermal Compressibility (Liquid 3),1/Pa,0,0,0,0,0,0,0,0,0
+Bulk Modulus (Aqueous),bar,0,0,0,0,0,0,0,0,0
+Speed of Sound (Aqueous),m/s,0,0,0,0,0,0,0,0,0
+Joule-Thomson Coefficient (Aqueous),K/Pa,0,0,0,0,0,0,0,0,0
+Internal Energy (Aqueous),kJ/kg,0,0,0,0,0,0,0,0,0
+Gibbs Free Energy (Aqueous),kJ/kg,0,0,0,0,0,0,0,0,0
+Helmholtz Free Energy (Aqueous),kJ/kg,0,0,0,0,0,0,0,0,0
+Isothermal Compressibility (Aqueous),1/Pa,0,0,0,0,0,0,0,0,0
+Bulk Modulus (Solid),bar,0,0,0,0,0,0,0,0,0
+Speed of Sound (Solid),m/s,0,0,0,0,0,0,0,0,0
+Joule-Thomson Coefficient (Solid),K/Pa,0,0,0,0,0,0,0,0,0
+Internal Energy (Solid),kJ/kg,0,0,0,0,0,0,0,0,0
+Gibbs Free Energy (Solid),kJ/kg,0,0,0,0,0,0,0,0,0
+Helmholtz Free Energy (Solid),kJ/kg,0,0,0,0,0,0,0,0,0
+Isothermal Compressibility (Solid),1/Pa,0,0,0,0,0,0,0,0,0
+Internal Energy (Mixture),kJ/kg,14.4841,-236.754,-1228.84,205.241,-235.254,205.182,205.182,-227.874,-235.254
+Gibbs Free Energy (Mixture),kJ/kg,876.051,650.277,-128.835,963.01,425.99,921.136,921.136,657.251,425.99
+Helmholtz Free Energy (Mixture),kJ/kg,532.694,411.026,-140.839,544.081,191.139,509.619,509.619,415.966,191.139
+Molar Internal Energy (Mixture),kJ/kmol,154.574,-2570.62,-39149.1,2190.33,-2510.62,2227.82,2227.82,-2459.68,-2510.62
+Molar Gibbs Free Energy (Mixture),kJ/kmol,9349.18,7060.56,-4104.5,10277.2,4546.15,10001.5,10001.5,7094.42,4546.15
+Molar Helmholtz Free Energy (Mixture),kJ/kmol,5684.89,4462.83,-4486.91,5806.41,2039.83,5533.32,5533.32,4489.97,2039.83
+Molar Internal Energy (Vapor),kJ/kmol,154.574,-2459.68,0,2190.33,-2510.62,2227.82,2227.82,-2459.68,-2510.62
+Molar Gibbs Free Energy (Vapor),kJ/kmol,9349.18,7094.42,0,10277.2,4546.15,10001.5,10001.5,7094.42,4546.15
+Molar Helmholtz Free Energy (Vapor),kJ/kmol,5684.89,4489.97,0,5806.41,2039.83,5533.32,5533.32,4489.97,2039.83
+Molar Internal Energy (Overall Liquid),kJ/kmol,,-39149.1,-39149.1,,,,,,
+Molar Gibbs Free Energy (Overall Liquid),kJ/kmol,,-4104.5,-4104.5,,,,,,
+Molar Helmholtz Free Energy (Overall Liquid),kJ/kmol,,-4486.91,-4486.91,,,,,,
+Molar Internal Energy (Liquid 1),kJ/kmol,0,-39149.1,-39149.1,0,0,0,0,0,0
+Molar Gibbs Free Energy (Liquid 1),kJ/kmol,0,-4104.5,-4104.5,0,0,0,0,0,0
+Molar Helmholtz Free Energy (Liquid 1),kJ/kmol,0,-4486.91,-4486.91,0,0,0,0,0,0
+Molar Internal Energy (Liquid 2),kJ/kmol,0,0,0,0,0,0,0,0,0
+Molar Gibbs Free Energy (Liquid 2),kJ/kmol,0,0,0,0,0,0,0,0,0
+Molar Helmholtz Free Energy (Liquid 2),kJ/kmol,0,0,0,0,0,0,0,0,0
+Molar Internal Energy (Liquid 3),kJ/kmol,0,0,0,0,0,0,0,0,0
+Molar Gibbs Free Energy (Liquid 3),kJ/kmol,0,0,0,0,0,0,0,0,0
+Molar Helmholtz Free Energy (Liquid 3),kJ/kmol,0,0,0,0,0,0,0,0,0
+Molar Internal Energy (Aqueous Phase),kJ/kmol,0,0,0,0,0,0,0,0,0
+Molar Gibbs Free Energy (Aqueous Phase),kJ/kmol,0,0,0,0,0,0,0,0,0
+Molar Helmholtz Free Energy (Aqueous Phase),kJ/kmol,0,0,0,0,0,0,0,0,0
+Molar Internal Energy (Solid),kJ/kmol,0,0,0,0,0,0,0,0,0
+Molar Gibbs Free Energy (Solid),kJ/kmol,0,0,0,0,0,0,0,0,0
+Molar Helmholtz Free Energy (Solid),kJ/kmol,0,0,0,0,0,0,0,0,0
+Molality (Mixture) / Methanol,mol/Kg Water,0,0,0,0,0,0,0,0,0
+Molality (Mixture) / Carbon monoxide,mol/Kg Water,0,0,0,0,0,0,0,0,0
+Molality (Mixture) / Hydrogen,mol/Kg Water,0,0,0,0,0,0,0,0,0
+Molality (Vapor Phase) / Methanol,mol/Kg Water,0,0,0,0,0,0,0,0,0
+Molality (Vapor Phase) / Carbon monoxide,mol/Kg Water,0,0,0,0,0,0,0,0,0
+Molality (Vapor Phase) / Hydrogen,mol/Kg Water,0,0,0,0,0,0,0,0,0
+Molality (Overall Liquid) / Methanol,mol/Kg Water,0,0,0,0,0,0,0,0,0
+Molality (Overall Liquid) / Carbon monoxide,mol/Kg Water,0,0,0,0,0,0,0,0,0
+Molality (Overall Liquid) / Hydrogen,mol/Kg Water,0,0,0,0,0,0,0,0,0
+Molality (Liquid Phase 1) / Methanol,mol/Kg Water,0,0,0,0,0,0,0,0,0
+Molality (Liquid Phase 1) / Carbon monoxide,mol/Kg Water,0,0,0,0,0,0,0,0,0
+Molality (Liquid Phase 1) / Hydrogen,mol/Kg Water,0,0,0,0,0,0,0,0,0
+Molality (Liquid Phase 2) / Methanol,mol/Kg Water,0,0,0,0,0,0,0,0,0
+Molality (Liquid Phase 2) / Carbon monoxide,mol/Kg Water,0,0,0,0,0,0,0,0,0
+Molality (Liquid Phase 2) / Hydrogen,mol/Kg Water,0,0,0,0,0,0,0,0,0
+Molality (Solid Phase) / Methanol,mol/Kg Water,0,0,0,0,0,0,0,0,0
+Molality (Solid Phase) / Carbon monoxide,mol/Kg Water,0,0,0,0,0,0,0,0,0
+Molality (Solid Phase) / Hydrogen,mol/Kg Water,0,0,0,0,0,0,0,0,0
+Molarity (Mixture) / Methanol,mol/m3,0,26.8119,24172.3,0,0,0,15.5871,17.5987,0
+Molarity (Mixture) / Carbon monoxide,mol/m3,727.016,1016.62,107.715,595.869,398.593,0,591.013,1016.97,398.593
+Molarity (Mixture) / Hydrogen,mol/m3,1456.22,2036.37,134.652,1193.53,798.384,0,1183.85,2037.1,798.384
+Molarity (Vapor Phase) / Methanol,mol/m3,0,17.5987,0,0,0,0,15.5871,17.5987,0
+Molarity (Vapor Phase) / Carbon monoxide,mol/m3,727.016,1016.97,0,595.869,398.593,0,591.013,1016.97,398.593
+Molarity (Vapor Phase) / Hydrogen,mol/m3,1456.22,2037.1,0,1193.53,798.384,0,1183.85,2037.1,798.384
+Molarity (Overall Liquid) / Methanol,mol/m3,0,24172.3,24172.3,0,0,0,0,0,0
+Molarity (Overall Liquid) / Carbon monoxide,mol/m3,0,107.715,107.715,0,0,0,0,0,0
+Molarity (Overall Liquid) / Hydrogen,mol/m3,0,134.652,134.652,0,0,0,0,0,0
+Molarity (Liquid Phase 1) / Methanol,mol/m3,0,24172.3,24172.3,0,0,0,0,0,0
+Molarity (Liquid Phase 1) / Carbon monoxide,mol/m3,0,107.715,107.715,0,0,0,0,0,0
+Molarity (Liquid Phase 1) / Hydrogen,mol/m3,0,134.652,134.652,0,0,0,0,0,0
+Molarity (Liquid Phase 2) / Methanol,mol/m3,0,0,0,0,0,0,0,0,0
+Molarity (Liquid Phase 2) / Carbon monoxide,mol/m3,0,0,0,0,0,0,0,0,0
+Molarity (Liquid Phase 2) / Hydrogen,mol/m3,0,0,0,0,0,0,0,0,0
+Molarity (Aqueous Phase) / Methanol,mol/m3,0,0,0,0,0,0,0,0,0
+Molarity (Aqueous Phase) / Carbon monoxide,mol/m3,0,0,0,0,0,0,0,0,0
+Molarity (Aqueous Phase) / Hydrogen,mol/m3,0,0,0,0,0,0,0,0,0
+Molarity (Solid Phase) / Methanol,mol/m3,0,0,0,0,0,0,0,0,0
+Molarity (Solid Phase) / Carbon monoxide,mol/m3,0,0,0,0,0,0,0,0,0
+Molarity (Solid Phase) / Hydrogen,mol/m3,0,0,0,0,0,0,0,0,0
+Energy Flow,kW,-98.9629,-112.66,-2.12373,-90.4361,-110.432,0,-92.9961,-110.537,-110.432
+Activity Coefficient, Liquid Phase 1 / Methanol,,0,1.09286,1.09286,0,0,0,0,0,0
+Activity Coefficient, Liquid Phase 1 / Carbon monoxide,,0,0.558676,0.558676,0,0,0,0,0,0
+Activity Coefficient, Liquid Phase 1 / Hydrogen,,0,6.04205E-13,6.04205E-13,0,0,0,0,0,0
+Activity Coefficient, Liquid Phase 2 / Methanol,,0,0,0,0,0,0,0,0,0
+Activity Coefficient, Liquid Phase 2 / Carbon monoxide,,0,0,0,0,0,0,0,0,0
+Activity Coefficient, Liquid Phase 2 / Hydrogen,,0,0,0,0,0,0,0,0,0
+Fugacity Coefficient, Vapor Phase / Methanol,bar,1E-05,6.52202E-06,6.52991E-06,1E-05,1E-05,9.46414E-06,9.46414E-06,6.52202E-06,1E-05
+Fugacity Coefficient, Vapor Phase / Carbon monoxide,bar,1.02169E-05,9.87281E-06,9.87395E-06,1.02783E-05,9.9176E-06,1.02757E-05,1.02757E-05,9.87281E-06,9.9176E-06
+Fugacity Coefficient, Vapor Phase / Hydrogen,bar,1.02474E-05,1.02988E-05,1.02981E-05,1.02189E-05,1.01046E-05,1.02205E-05,1.02205E-05,1.02988E-05,1.01046E-05
+Fugacity Coefficient, Liquid Phase 1 / Methanol,bar,8.18138E-06,3.77409E-08,3.77409E-08,9.23309E-06,7.54007E-06,6.82432E-06,6.82432E-06,3.77409E-08,7.54007E-06
+Fugacity Coefficient, Liquid Phase 1 / Carbon monoxide,bar,1.01701E-05,0.000740853,0.000740853,1.02581E-05,9.84877E-06,1.77365E-05,1.77365E-05,0.000740853,9.84877E-06
+Fugacity Coefficient, Liquid Phase 1 / Hydrogen,bar,1.03415E-05,0.00123837,0.00123837,1.02589E-05,1.02475E-05,1.87698E-05,1.87698E-05,0.00123837,1.02475E-05
+Fugacity Coefficient, Liquid Phase 2 / Methanol,bar,,,,,,,,,
+Fugacity Coefficient, Liquid Phase 2 / Carbon monoxide,bar,,,,,,,,,
+Fugacity Coefficient, Liquid Phase 2 / Hydrogen,bar,,,,,,,,,
+Diffusion Coefficient, Vapor Phase / Methanol,m2/s,2.19211E-12,1.22216E-12,1.22216E-12,3.10773E-12,3.1124E-12,3.10773E-12,3.10773E-12,1.22216E-12,3.1124E-12
+Diffusion Coefficient, Vapor Phase / Carbon monoxide,m2/s,3.38674E-12,1.8882E-12,1.8882E-12,4.80135E-12,4.80856E-12,4.80135E-12,4.80135E-12,1.8882E-12,4.80856E-12
+Diffusion Coefficient, Vapor Phase / Hydrogen,m2/s,2.59152E-11,1.44484E-11,1.44484E-11,3.67397E-11,3.67949E-11,3.67397E-11,3.67397E-11,1.44484E-11,3.67949E-11
+Diffusion Coefficient, Liquid Phase 1 / Methanol,m2/s,,2.48206E-07,2.48206E-07,,,,,,
+Diffusion Coefficient, Liquid Phase 1 / Carbon monoxide,m2/s,,2.66572E-07,2.66572E-07,,,,,,
+Diffusion Coefficient, Liquid Phase 1 / Hydrogen,m2/s,,8.43604E-08,8.43604E-08,,,,,,
+Diffusion Coefficient, Liquid Phase 2 / Methanol,m2/s,,,,,,,,,
+Diffusion Coefficient, Liquid Phase 2 / Carbon monoxide,m2/s,,,,,,,,,
+Diffusion Coefficient, Liquid Phase 2 / Hydrogen,m2/s,,,,,,,,,
+Ideal Gas Heat Capacity Cp (Vapor),kJ/kg,2.75086,2.68643,0,2.77456,2.70431,2.75243,2.75243,2.68643,2.70431
+Ideal Gas Heat Capacity Cp (Liquid 1),kJ/kg,0,1.41536,1.41536,1.39121,0,1.41537,0,0,1.39552
+Ideal Gas Heat Capacity Cp (Liquid 2),kJ/kg,0,0,0,0,0,0,0,0,0
+Ideal Gas Heat Capacity Cp (Overall Liquid),kJ/kg,0,0,0,0,0,0,0,0,0
+Ideal Gas Heat Capacity Cp (Solid),kJ/kg,0,0,0,0,0,0,0,0,0
+Ideal Gas Heat Capacity Ratio (Vapor),,1.39509,1.40196,0,1.3904,1.40465,1.38542,1.38542,1.40196,1.40465
+Ideal Gas Heat Capacity Ratio (Liquid 1),,0,1.22606,1.22606,1.22928,0,1.22606,0,0,1.22886
+Ideal Gas Heat Capacity Ratio (Liquid 2),,0,0,0,0,0,0,0,0,0
+Ideal Gas Heat Capacity Ratio (Overall Liquid),,0,0,0,0,0,0,0,0,0
+Ideal Gas Heat Capacity Ratio (Solid),,0,0,0,0,0,0,0,0,0
+CO2 Loading,,0,0,0,0,0,0,0,0,0
+CO2 Partial Pressure,bar,0,0,0,0,0,0,0,0,0
+H2S Loading,,0,0,0,0,0,0,0,0,0
+H2S Partial Pressure,bar,0,0,0,0,0,0,0,0,0
+Mean Particle Size (Solid),mm,0,0,0,0,0,0,0,0,0
+Particle Size Standard Deviation (Solid),mm,0,0,0,0,0,0,0,0,0
+Volumetric Fraction (Vapor),,1,0.999619,0,1,1,,1,1,1
+Volumetric Fraction (Overall Liquid),,0,0.000381422,1,0,0,,0,0,0
+Volumetric Fraction (Liquid 1),,0,0.000381422,1,0,0,,0,0,0
+Volumetric Fraction (Liquid 2),,0,0,0,0,0,,0,0,0
+Volumetric Fraction (Solid),,0,0,0,0,0,,0,0,0
